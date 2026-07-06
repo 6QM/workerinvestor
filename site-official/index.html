@@ -1,0 +1,683 @@
+<!doctype html>
+<html lang="zh-CN" data-lang="zh">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Worker Investor / 工资之外</title>
+    <meta name="robots" content="index,follow" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#f4f3ec" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#07090d" media="(prefers-color-scheme: dark)" />
+    <meta
+      name="description"
+      content="《The Worker Investor / 工资之外》是刘乔迈写给普通 worker 的长期转型之书，关于工资、技能、人力资本、资产系统和未来选择权。"
+    />
+    <link rel="canonical" href="https://workerinvestor.com/" />
+    <meta property="og:title" content="The Worker Investor / 工资之外" />
+    <meta property="og:description" content="A book in progress about turning wages, skills, time, and judgment into future optionality." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://workerinvestor.com/" />
+    <meta property="og:image" content="https://workerinvestor.com/assets/share-card.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="The Worker Investor / 工资之外" />
+    <meta name="twitter:description" content="A book in progress about turning wages, skills, time, and judgment into future optionality." />
+    <meta name="twitter:image" content="https://workerinvestor.com/assets/share-card.png" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://workerinvestor.com/#website",
+            "url": "https://workerinvestor.com/",
+            "name": "The Worker Investor / 工资之外",
+            "inLanguage": ["zh-CN", "en"],
+            "description": "A book in progress about turning wages, skills, time, and judgment into future optionality.",
+            "author": {
+              "@id": "https://workerinvestor.com/#author"
+            }
+          },
+          {
+            "@type": "Person",
+            "@id": "https://workerinvestor.com/#author",
+            "name": "刘乔迈 / Qiaomai Liu",
+            "url": "https://workerinvestor.com/"
+          },
+          {
+            "@type": "Book",
+            "@id": "https://workerinvestor.com/#book",
+            "name": "The Worker Investor / 工资之外",
+            "bookFormat": "https://schema.org/EBook",
+            "inLanguage": ["zh-CN", "en"],
+            "description": "A long-term nonfiction book project for ordinary workers about wages, human capital, assets, and future optionality.",
+            "url": "https://workerinvestor.com/",
+            "author": {
+              "@id": "https://workerinvestor.com/#author"
+            }
+          }
+        ]
+      }
+    </script>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <script>
+      document.documentElement.classList.add("js");
+    </script>
+    <link rel="stylesheet" href="styles.css?v=20260705-toc-mobile-fix" />
+  </head>
+  <body>
+    <div class="scroll-progress" aria-hidden="true"><span id="scroll-progress"></span></div>
+    <a class="skip-link" href="#main" data-i18n="skipLink">跳到正文</a>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="The Worker Investor 首页" data-i18n-aria-label="brandAria">
+        <span class="brand-mark">WI</span>
+        <span>The Worker Investor</span>
+      </a>
+      <nav class="nav-links" aria-label="页面区块">
+        <a href="#manifesto" data-i18n="navThesis">Thesis</a>
+        <a href="#framework" data-i18n="navFramework">Framework</a>
+        <a href="#author" data-i18n="navAuthor">Author</a>
+        <a href="#notes" data-i18n="navNotes">Path</a>
+        <a href="#toc" data-i18n="navContents">Contents</a>
+        <a href="#portfolio" data-i18n="navHce">HCE</a>
+        <a href="#reading" data-i18n="navRead">Read</a>
+      </nav>
+      <div class="header-actions">
+        <div class="language-toggle" aria-label="语言切换" data-i18n-aria-label="languageAria">
+          <button class="is-active" type="button" data-lang-switch="zh" aria-pressed="true">中文</button>
+          <button type="button" data-lang-switch="en" aria-pressed="false">EN</button>
+        </div>
+        <button class="theme-toggle" type="button" id="theme-toggle" aria-label="切换暗黑模式" aria-pressed="false" data-i18n-aria-label="themeAria">
+          <span aria-hidden="true"></span>
+        </button>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero" id="top" aria-labelledby="hero-title">
+        <div class="hero-kicker reveal">
+          <span data-i18n="heroKickerLeft">Book in Progress / Reader Preview</span>
+          <span data-i18n="heroKickerRight">Wages -> Ownership -> Optionality</span>
+        </div>
+
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow reveal" data-i18n="heroEyebrow">A book for ordinary workers inside real constraints</p>
+            <h1 id="hero-title" class="reveal" data-i18n="heroTitle" data-i18n-mode="html">工资之外<br /><span>The Worker Investor</span></h1>
+            <p class="hero-lede reveal" data-i18n="heroLede">
+              这本书记录一个仍在系统里的 worker，如何把工资、技能、内容和系统慢慢转化为选择权。
+            </p>
+            <div class="hero-thesis reveal" aria-label="核心命题">
+              <span data-i18n="heroThesisLabel">Core thesis</span>
+              <p data-i18n="heroThesisCopy">
+                Worker gets cash flow. Investor turns cash flow into ownership, optionality, and future time.
+              </p>
+            </div>
+            <div class="hero-actions reveal">
+              <a class="button primary" href="#manifesto" data-i18n="heroPrimary">阅读核心命题</a>
+              <a class="button ghost" href="#author" data-i18n="heroSecondary">认识作者</a>
+            </div>
+          </div>
+
+          <aside class="book-showcase reveal" aria-label="可交互的 3D 书本目录预览">
+            <div class="book-showcase-copy">
+              <span data-i18n="bookKicker">01 / Reader preview</span>
+              <h2 data-i18n="bookHeading">先翻开这本写给普通 worker 的书。</h2>
+              <p data-i18n="bookCopy">点击或滑动可以翻页。完整目录、进度和试读放在下方。</p>
+            </div>
+
+            <div
+              class="book-stage"
+              id="hero-book"
+              role="button"
+              tabindex="0"
+              data-page="0"
+              aria-label="The Worker Investor 可翻页书本"
+              aria-describedby="book-page-status"
+            >
+              <div class="book-shadow" aria-hidden="true"></div>
+              <div class="book-object" aria-hidden="true">
+                <div class="book-page-stack"></div>
+                <section class="book-page book-title-page">
+                  <p data-i18n="bookTitleKicker">book in progress</p>
+                  <h3>The Worker Investor</h3>
+                  <strong>工资之外</strong>
+                  <span data-i18n="bookTitleNote">Not a manual. Not a promise. A map.</span>
+                </section>
+                <section class="book-page book-toc-page book-toc-one">
+                  <div class="book-page-head">
+                    <p data-i18n="bookContentsKicker">contents</p>
+                    <span>001</span>
+                  </div>
+                  <h3 data-i18n="bookContentsTitle">目录</h3>
+                  <ol>
+                    <li><span>00</span><b>Preface / 前言</b><em>Drafted</em></li>
+                    <li><span>01</span><b>Part I - Worker 的现实处境</b><em>Writing</em></li>
+                    <li><span>02</span><b>Part II - Worker Investor Mindset</b><em>Writing</em></li>
+                    <li><span>03</span><b>Part III - Human Capital ETF</b><em>Writing</em></li>
+                    <li><span>04</span><b>Part IV - Case Studies</b><em>Writing</em></li>
+                    <li><span>05</span><b>Conclusion - Future Optionality</b><em>Planned</em></li>
+                  </ol>
+                </section>
+                <section class="book-page book-toc-page book-toc-two">
+                  <div class="book-page-head">
+                    <p data-i18n="bookJourneyKicker">author note</p>
+                    <span>002</span>
+                  </div>
+                  <h3 data-i18n="bookJourneyTitle">为什么写</h3>
+                  <ol>
+                    <li><span>Author</span><b data-i18n="bookAuthorNoteOne">刘乔迈 / 在职工程师</b><em>Inside</em></li>
+                    <li><span>Question</span><b data-i18n="bookAuthorNoteTwo">今天的劳动如何保存到未来</b><em>Core</em></li>
+                    <li><span>Method</span><b data-i18n="bookAuthorNoteThree">工资、技能、内容和复盘系统</b><em>Build</em></li>
+                    <li><span>Boundary</span><b data-i18n="bookAuthorNoteFour">不神化辞职，也不神化上班</b><em>Real</em></li>
+                  </ol>
+                </section>
+                <div class="book-cover">
+                  <div class="book-cover-face book-cover-front">
+                    <p data-i18n="bookCoverKicker">book in progress</p>
+                    <div>
+                      <h3>The Worker Investor</h3>
+                      <span>工资之外</span>
+                    </div>
+                    <small data-i18n="bookCoverSmall">wages -> optionality</small>
+                  </div>
+                  <div class="book-cover-face book-cover-back">
+                    <p data-i18n="bookBackCopy">工资之外，不是工作之外，而是单一路径之外。</p>
+                  </div>
+                </div>
+                <div class="book-spine">
+                  <span>The Worker Investor</span>
+                  <strong>WI</strong>
+                </div>
+              </div>
+            </div>
+
+            <div class="book-controls" aria-label="书本控制">
+              <button class="book-nav" type="button" data-book-prev aria-label="上一页" data-i18n-aria-label="bookPrevAria">←</button>
+              <button class="book-toggle-action" type="button" data-book-toggle>打开书本</button>
+              <button class="book-nav" type="button" data-book-next aria-label="下一页" data-i18n-aria-label="bookNextAria">→</button>
+              <p id="book-page-status" aria-live="polite">封面 00 / 03</p>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="manifesto-section" id="manifesto" aria-labelledby="manifesto-title">
+        <div class="manifesto-grid">
+          <div class="section-heading reveal">
+            <p class="eyebrow" data-i18n="thesisEyebrow">Thesis</p>
+            <h2 id="manifesto-title" data-i18n="thesisTitle">不是逃离工作，而是不停留在卖时间这一层。</h2>
+            <p data-i18n="thesisCopy">
+              这本书从普通 worker 的现实处境出发：工资给安全感，也暴露边界；工作消耗的不只是时间；要夺回的也不只是时间，而是注意力、判断力、身体、学习能力和未来选择权。
+            </p>
+          </div>
+
+          <aside class="thesis-note reveal" aria-label="核心定位">
+            <span data-i18n="coreSentenceLabel">Core sentence</span>
+            <p>Worker gets cash flow. Investor turns cash flow into ownership, optionality, and future time.</p>
+          </aside>
+        </div>
+
+        <div class="ledger-strip reveal" aria-label="工资到选择权路径">
+          <span data-i18n="ledgerWages">工资</span>
+          <span data-i18n="ledgerSavings">储蓄</span>
+          <span data-i18n="ledgerInvesting">投资</span>
+          <span data-i18n="ledgerSkills">技能</span>
+          <span data-i18n="ledgerContent">内容</span>
+          <span data-i18n="ledgerSystem">系统</span>
+          <strong data-i18n="ledgerOptionality">选择权</strong>
+        </div>
+      </section>
+
+      <section class="author-section" id="author" aria-labelledby="author-title">
+        <div class="author-grid">
+          <div class="section-heading reveal">
+            <p class="eyebrow" data-i18n="authorEyebrow">Author's note</p>
+            <h2 id="author-title" data-i18n="authorTitle">我不是站在工资之外写这本书。</h2>
+            <p data-i18n="authorCopy">
+              我叫刘乔迈，是一名仍在工作系统里的商用车热管理工程师。热管理、工程项目和日常工资现金流，是我理解 Core 的起点；AI、写作和公开表达，是我观察 Growth 与 Distribution 的现场。
+            </p>
+            <p data-i18n="authorCopyTwo">
+              我写《工资之外》，不是为了证明某个成功故事，而是记录一个普通 worker 如何在项目、绩效、家庭责任和时间压力中，仍然把一部分劳动成果留给未来。
+            </p>
+          </div>
+
+          <aside class="author-card reveal" aria-label="作者锚点">
+            <div>
+              <span data-i18n="authorFactOneLabel">Identity</span>
+              <strong data-i18n="authorFactOneValue">商用车热管理工程师</strong>
+            </div>
+            <div>
+              <span data-i18n="authorFactTwoLabel">Field</span>
+              <strong data-i18n="authorFactTwoValue">工资、项目、KPI、长期学习</strong>
+            </div>
+            <div>
+              <span data-i18n="authorFactThreeLabel">Question</span>
+              <strong data-i18n="authorFactThreeValue">劳动如何沉淀成未来选择权</strong>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="framework-section" id="framework" aria-labelledby="framework-title">
+        <div class="section-heading reveal">
+          <p class="eyebrow" data-i18n="frameworkEyebrow">Visual framework</p>
+          <h2 id="framework-title" data-i18n="frameworkTitle">把 Worker 到 Investor 的变化，画成一张资产流转图。</h2>
+          <p data-i18n="frameworkCopy">
+            读者可以先用这张图理解全书的主线：工资先提供现金流，现金流再被配置成资产、能力、内容、判断力和未来时间。
+          </p>
+        </div>
+
+        <div class="framework-grid">
+          <div class="framework-levels reveal" aria-label="Worker Investor levels">
+            <article class="level-card">
+              <span>01</span>
+              <div>
+                <p data-i18n="levelOneLabel">Level 1 / Exchange</p>
+                <h3 data-i18n="levelOneTitle">看清工资现金流</h3>
+                <p data-i18n="levelOneCopy">我先承认工资的重要性，再追踪它被消费、储蓄、投资和学习分别拿走多少。</p>
+              </div>
+            </article>
+            <article class="level-card">
+              <span>02</span>
+              <div>
+                <p data-i18n="levelTwoLabel">Level 2 / Allocation</p>
+                <h3 data-i18n="levelTwoTitle">设计 Human Capital ETF</h3>
+                <p data-i18n="levelTwoCopy">把健康、现金流、职业能力、AI、写作和复盘系统放进同一张资产表。</p>
+              </div>
+            </article>
+            <article class="level-card">
+              <span>03</span>
+              <div>
+                <p data-i18n="levelThreeLabel">Level 3 / Ownership</p>
+                <h3 data-i18n="levelThreeTitle">让部分成果离开工时继续工作</h3>
+                <p data-i18n="levelThreeCopy">当内容、技能、资本和声誉开始形成反馈，工作就不再是未来唯一的建造现场。</p>
+              </div>
+            </article>
+          </div>
+
+          <div class="system-map reveal" aria-label="工资到资产系统图">
+            <div class="map-header">
+              <span data-i18n="mapKicker">Worker -> Investor map</span>
+              <strong data-i18n="mapTitle">从现金流到选择权</strong>
+            </div>
+            <div class="flow-line" aria-label="核心路径">
+              <div class="flow-node is-income">
+                <span data-i18n="flowIncomeLabel">Earned income</span>
+                <strong data-i18n="flowIncomeTitle">工资</strong>
+              </div>
+              <div class="flow-node is-allocation">
+                <span data-i18n="flowAllocationLabel">Allocation</span>
+                <strong data-i18n="flowAllocationTitle">配置</strong>
+              </div>
+              <div class="flow-node is-assets">
+                <span data-i18n="flowAssetsLabel">Assets</span>
+                <strong data-i18n="flowAssetsTitle">资产</strong>
+              </div>
+              <div class="flow-node is-optionality">
+                <span data-i18n="flowOptionalityLabel">Optionality</span>
+                <strong data-i18n="flowOptionalityTitle">未来时间</strong>
+              </div>
+            </div>
+            <div class="map-matrix">
+              <div class="map-box is-friction">
+                <span data-i18n="frictionLabel">Friction</span>
+                <strong data-i18n="frictionTitle">消费 / 税 / 注意力</strong>
+              </div>
+              <div class="map-box is-core">
+                <span>Core</span>
+                <strong data-i18n="coreMapTitle">健康 + 职业能力</strong>
+              </div>
+              <div class="map-box is-growth">
+                <span>Growth</span>
+                <strong data-i18n="growthMapTitle">AI + 阅读 + 写作</strong>
+              </div>
+              <div class="map-box is-distribution">
+                <span>Distribution</span>
+                <strong data-i18n="distributionMapTitle">文章 + 公开表达</strong>
+              </div>
+              <div class="map-box is-meta">
+                <span>Meta</span>
+                <strong data-i18n="metaMapTitle">复盘 + 再平衡</strong>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="principles-section" id="principles" aria-labelledby="principles-title">
+        <div class="section-heading reveal">
+          <p class="eyebrow" data-i18n="principlesEyebrow">Worker Investor principles</p>
+          <h2 id="principles-title" data-i18n="principlesTitle">六条原则，先划清这本书的边界。</h2>
+        </div>
+
+        <div class="principle-wall" aria-label="Worker Investor principles">
+          <article class="principle-card reveal is-blue">
+            <span>01</span>
+            <h3 data-i18n="principleOneTitle">工资是入口，不是终点。</h3>
+            <p data-i18n="principleOneCopy">工资先让人活下来，然后才有机会被转化为本金、技能、内容和系统。</p>
+          </article>
+          <article class="principle-card reveal is-paper">
+            <span>02</span>
+            <h3 data-i18n="principleTwoTitle">Exchange 必要，但有边界。</h3>
+            <p data-i18n="principleTwoCopy">用时间交换工资是起点；问题在于未来是否仍然只能继续交换。</p>
+          </article>
+          <article class="principle-card reveal is-green">
+            <span>03</span>
+            <h3 data-i18n="principleThreeTitle">Ownership 是第二身份。</h3>
+            <p data-i18n="principleThreeCopy">Investor 不是炒股的人，而是把资源变成未来资产的人。</p>
+          </article>
+          <article class="principle-card reveal is-gold">
+            <span>04</span>
+            <h3 data-i18n="principleFourTitle">Human Capital 也需要配置。</h3>
+            <p data-i18n="principleFourCopy">健康、职业主线、AI、写作和复盘系统，都属于人的资产表。</p>
+          </article>
+          <article class="principle-card reveal is-ink">
+            <span>05</span>
+            <h3 data-i18n="principleFiveTitle">内容是可分发的经验。</h3>
+            <p data-i18n="principleFiveCopy">一篇文章、一个公开观点、一段可复用的方法，可能继续替今天的思考工作。</p>
+          </article>
+          <article class="principle-card reveal is-red">
+            <span>06</span>
+            <h3 data-i18n="principleSixTitle">选择权比财富数字更重要。</h3>
+            <p data-i18n="principleSixCopy">真正的目标不是不上班，而是未来不再只有一种被安排方式。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="toc-section" id="toc" aria-labelledby="toc-title">
+        <div class="section-heading reveal">
+          <p class="eyebrow" data-i18n="tocEyebrow">Contents as a path</p>
+          <h2 id="toc-title" data-i18n="tocTitle">先看清路径，再进入试读。</h2>
+          <p data-i18n="tocCopy">
+            目录按最新写作进度展示，帮助读者知道哪些已成稿、哪些正在写、哪些仍在规划。完整书稿成熟后再公开。
+          </p>
+        </div>
+
+        <!-- TOC_PROGRESS_SNAPSHOT: update this single line when the Notion writing database snapshot changes. -->
+        <p class="toc-snapshot reveal" data-i18n="tocSnapshot">Progress snapshot · 2026-07-05 · 全书已成稿约 28,600 字</p>
+
+        <div class="toc-layout">
+          <div class="journey-rail reveal" aria-hidden="true">
+            <span>Preface</span>
+            <span>Reality</span>
+            <span>Mindset</span>
+            <span>HCE</span>
+            <span>Cases</span>
+            <span>Conclusion</span>
+          </div>
+
+          <div class="toc-accordion" data-accordion>
+            <article class="toc-item reveal is-open">
+              <button type="button" class="toc-trigger" aria-expanded="true">
+                <span>00</span>
+                <strong data-i18n="tocPrefaceTitle">Preface / 前言</strong>
+                <em data-i18n="tocStatusDraftedPreface">Drafted / 已完成 · 约 4,600 字</em>
+              </button>
+              <div class="toc-panel">
+                <ol>
+                  <li><span>Preface</span><b data-i18n="tocPrefaceItem">Preface / 前言</b><em data-i18n="tocStatusDraftedPreface">Drafted / 已完成 · 约 4,600 字</em></li>
+                </ol>
+              </div>
+            </article>
+
+            <article class="toc-item reveal">
+              <button type="button" class="toc-trigger" aria-expanded="false">
+                <span>01</span>
+                <strong data-i18n="tocPartOneTitle">Part I · 从 Worker 的现实处境出发</strong>
+                <em data-i18n="tocStatusWriting">Writing / 写作中</em>
+              </button>
+              <div class="toc-panel">
+                <ol>
+                  <li><span>Ch01</span><b data-i18n="tocCh01">起点：我为什么开始思考 Worker Investor</b><em data-i18n="tocStatusDraftedCh01">Drafted / 已完成 · 约 15,000 字</em></li>
+                  <li><span>Ch02</span><b data-i18n="tocCh02">工资的安全感，也有它的边界</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch03</span><b data-i18n="tocCh03">现代 worker 的困境：我们卖的不只是时间</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch04</span><b data-i18n="tocCh04">从工厂钟声到日历、KPI 和 AI</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                </ol>
+              </div>
+            </article>
+
+            <article class="toc-item reveal">
+              <button type="button" class="toc-trigger" aria-expanded="false">
+                <span>02</span>
+                <strong data-i18n="tocPartTwoTitle">Part II · Worker Investor Mindset</strong>
+                <em data-i18n="tocStatusWriting">Writing / 写作中</em>
+              </button>
+              <div class="toc-panel">
+                <ol>
+                  <li><span>Ch05</span><b data-i18n="tocCh05">现金流与本金：把工资看成燃料，而不是身份</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch06</span><b data-i18n="tocCh06">真假市场：黄金电子盘、赌场与概率素养</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch07</span><b data-i18n="tocCh07">所有权与周期：股票如何诞生，又如何疯狂</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch08</span><b data-i18n="tocCh08">金融底仓：ETF 与 Worker Investor 的长期胜率</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                </ol>
+              </div>
+            </article>
+
+            <article class="toc-item reveal">
+              <button type="button" class="toc-trigger" aria-expanded="false">
+                <span>03</span>
+                <strong data-i18n="tocPartThreeTitle">Part III · Human Capital ETF：把自己作为一只长期复利资产来配置</strong>
+                <em data-i18n="tocStatusWriting">Writing / 写作中</em>
+              </button>
+              <div class="toc-panel">
+                <ol>
+                  <li><span>Ch09</span><b data-i18n="tocCh09">投资不只是钱：Worker 的资产栈</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch10</span><b data-i18n="tocCh10">Core：worker 的本金首先是健康和职业主线</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch11</span><b data-i18n="tocCh11">Growth：技能、AI 与未来现金流</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch12</span><b data-i18n="tocCh12">Distribution：内容资产、表达和可见性</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Ch13</span><b data-i18n="tocCh13">Meta：复盘、思考和再平衡</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                </ol>
+              </div>
+            </article>
+
+            <article class="toc-item reveal">
+              <button type="button" class="toc-trigger" aria-expanded="false">
+                <span>04</span>
+                <strong data-i18n="tocPartFourTitle">Part IV · Case Studies：Transformation Paths</strong>
+                <em data-i18n="tocStatusWriting">Writing / 写作中</em>
+              </button>
+              <div class="toc-panel">
+                <ol>
+                  <li><span>Case</span><b data-i18n="tocCaseMusk">万亿帝国之前的 Working Founder：马斯克的 worker 时期</b><em data-i18n="tocStatusWritingMusk">Writing / 写作中 · 约 9,000 字</em></li>
+                  <li><span>Case</span><b data-i18n="tocCaseCarnegie">镀金时代的 Working Operator：卡内基如何把电报技能复利成钢铁基础设施</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Case</span><b data-i18n="tocCaseFranklin">Benjamin Franklin：一个启蒙时代的“工资之外”样本</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                  <li><span>Case</span><b data-i18n="tocCaseNaval">Naval Ravikant：从出租时间到拥有杠杆</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                </ol>
+              </div>
+            </article>
+
+            <article class="toc-item reveal">
+              <button type="button" class="toc-trigger" aria-expanded="false">
+                <span>05</span>
+                <strong data-i18n="tocConclusionTitle">Conclusion · 成为 Worker Investor</strong>
+                <em data-i18n="tocStatusPlanned">Planned / 规划中</em>
+              </button>
+              <div class="toc-panel">
+                <ol>
+                  <li><span>Conclusion</span><b data-i18n="tocConclusionItem">成为 Worker Investor：增加 future optionality（未来选择权）</b><em data-i18n="tocStatusPlanned">Planned / 规划中</em></li>
+                </ol>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="portfolio-section" id="portfolio" aria-labelledby="portfolio-title">
+        <div class="section-heading reveal">
+          <p class="eyebrow" data-i18n="portfolioEyebrow">Human Capital ETF</p>
+          <h2 id="portfolio-title" data-i18n="portfolioTitle">把自己看成一只需要长期再平衡的资产组合。</h2>
+          <p data-i18n="portfolioCopy">
+            第三部分会把“投资自己”从一句口号变成一套阅读框架：一个 worker 拥有什么资产，哪些资产会折旧，哪些资产能复利，哪些需要定期再平衡。
+          </p>
+        </div>
+
+        <div class="portfolio-grid is-bridge">
+          <article class="portfolio-panel reveal">
+            <span>Question</span>
+            <h3 data-i18n="portfolioCoreTitle">我到底拥有什么资产？</h3>
+            <p data-i18n="portfolioCoreCopy">工资只是现金流，真正需要清点的是健康、职业能力、判断力、学习能力和可迁移经验。</p>
+          </article>
+          <article class="portfolio-panel reveal">
+            <span>Framework</span>
+            <h3 data-i18n="portfolioGrowthTitle">怎样配置自己？</h3>
+            <p data-i18n="portfolioGrowthCopy">Core 保护底仓，Growth 扩展能力，Distribution 让经验被看见，Meta 负责复盘和再平衡。</p>
+          </article>
+          <article class="portfolio-panel reveal">
+            <span>Practice</span>
+            <h3 data-i18n="portfolioDistributionTitle">如何持续复盘？</h3>
+            <p data-i18n="portfolioDistributionCopy">如果一个人的时间、身体和注意力都在被消耗，他就需要定期检查：哪些投入正在变成未来选择权。</p>
+          </article>
+        </div>
+
+        <div class="allocation-ledger is-bridge reveal" aria-label="Human Capital ETF bridge">
+          <div>
+            <span>Part III</span>
+            <strong>Read</strong>
+          </div>
+          <div>
+            <span>HCE</span>
+            <strong>Frame</strong>
+          </div>
+          <div>
+            <span>Reader</span>
+            <strong>Review</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="notes-section" id="notes" aria-labelledby="notes-title">
+        <div class="section-heading reveal">
+          <p class="eyebrow" data-i18n="notesEyebrow">Reader path</p>
+          <h2 id="notes-title" data-i18n="notesTitle">读者可以按四段路径进入这本书。</h2>
+          <p data-i18n="notesCopy">
+            这里保留的是阅读顺序：先看清 worker 的处境，再理解工资、市场和本金，进入 Human Capital ETF 与案例，最后回到一个目标：增加 future optionality（未来选择权）。
+          </p>
+        </div>
+
+        <div class="insight-grid">
+          <article class="insight-tile reveal">
+            <span data-i18n="insightOneLabel">Part I</span>
+            <strong data-i18n="insightOneValue">看清处境</strong>
+            <p data-i18n="insightOneCopy">工资的安全感、现代工作的真实消耗，以及系统如何塑造 worker。</p>
+          </article>
+          <article class="insight-tile reveal">
+            <span data-i18n="insightTwoLabel">Part II-III</span>
+            <strong data-i18n="insightTwoValue">理解配置</strong>
+            <p data-i18n="insightTwoCopy">现金流、本金、真假市场、ETF，以及 Human Capital ETF。</p>
+          </article>
+          <article class="insight-tile reveal">
+            <span data-i18n="insightThreeLabel">Part IV</span>
+            <strong data-i18n="insightThreeValue">进入案例</strong>
+            <p data-i18n="insightThreeCopy">观察 Musk、Carnegie、Franklin 和 Naval 如何把劳动经验转化为杠杆。</p>
+          </article>
+          <article class="insight-tile reveal">
+            <span data-i18n="insightFourLabel">Conclusion</span>
+            <strong data-i18n="insightFourValue">增加选择权</strong>
+            <p data-i18n="insightFourCopy">结语回扣前面的现实处境与心态转换：成为 Worker Investor，就是把未来从单一路径里慢慢解放出来。</p>
+          </article>
+        </div>
+
+        <div class="post-grid">
+          <article class="post-card reveal">
+            <div class="post-meta">
+              <span data-i18n="postOneType">Current draft</span>
+              <time data-i18n="postOneStatus">Drafted</time>
+            </div>
+            <h3 data-i18n="postOneTitle">从 Preface 和 Ch01 开始</h3>
+            <p data-i18n="postOneCopy">先理解这本书的起点：发薪日带来安全感，也暴露一个问题，今天的劳动如何保存到未来。</p>
+            <a href="#toc" data-i18n="postContentsCta">查看目录</a>
+          </article>
+          <article class="post-card reveal">
+            <div class="post-meta">
+              <span data-i18n="postTwoType">Writing now</span>
+              <time data-i18n="postTwoStatus">Part I</time>
+            </div>
+            <h3 data-i18n="postTwoTitle">现代工作消耗的不只是时间</h3>
+            <p data-i18n="postTwoCopy">Ch03 正在处理一个更锋利的问题：工作买走的，往往还有注意力、恢复力、情绪和未来想象力。</p>
+            <a href="#reading" data-i18n="postReadCta">阅读试读</a>
+          </article>
+          <article class="post-card reveal">
+            <div class="post-meta">
+              <span data-i18n="postThreeType">Publication</span>
+              <time data-i18n="postThreeStatus">Later</time>
+            </div>
+            <h3 data-i18n="postThreeTitle">全书完成后发布到 GitHub</h3>
+            <p data-i18n="postThreeCopy">目前先呈现书籍介绍、进度和试读入口。完整书稿成熟后，会以更适合长期保存的方式公开。</p>
+            <a href="#subscribe" data-i18n="postSubscribeCta">订阅更新</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="reading-section" id="reading" aria-labelledby="reading-title">
+        <div class="section-heading reveal">
+          <p class="eyebrow" data-i18n="readingEyebrow">Excerpt room</p>
+          <h2 id="reading-title" data-i18n="readingTitle">先读一小段，判断这本书的方向。</h2>
+          <p data-i18n="readingCopy">试读不是完整章节，只保留核心问题和语气。全书完成后，会以更稳定的形式公开。</p>
+        </div>
+
+        <div class="reader-shell reveal">
+          <aside class="reader-toc" aria-label="阅读目录">
+            <span data-i18n="readerTocLabel">Reading path</span>
+            <a href="#reader-p1" class="is-active" data-i18n="readerTocOne">工资</a>
+            <a href="#reader-p2" data-i18n="readerTocTwo">消耗</a>
+            <a href="#reader-p3" data-i18n="readerTocThree">资产</a>
+          </aside>
+
+          <article class="reader-card" id="reader-card">
+            <div class="reader-tools" aria-label="阅读设置">
+              <button type="button" data-font="smaller">A-</button>
+              <button type="button" data-font="larger">A+</button>
+              <button type="button" data-reading-tone="warm">Warm</button>
+              <button type="button" data-reading-tone="cool">Cool</button>
+            </div>
+            <p class="chapter-label" data-i18n="chapterLabel">Preface / excerpt</p>
+            <h3 data-i18n="excerptTitle">工资之外，不是工作之外。</h3>
+            <p id="reader-p1" data-i18n="excerptOne">
+              我也还在工作系统里。工资给我安全感，也提醒我边界：如果未来只能继续靠同一份时间出售自己，我拥有的选择权就会很少。
+            </p>
+            <blockquote data-i18n="excerptQuote">
+              The Worker Investor is not someone who stops working. It is someone who stops treating work as the only place where the future can be built.
+            </blockquote>
+            <p id="reader-p2" data-i18n="excerptTwo">
+              工资是第一条现金流，但现代工作消耗的也不只是时间。会议、KPI、消息通知、临时需求和 AI 带来的效率通胀，都在重新定价一个 worker 的注意力、身体和恢复能力。
+            </p>
+            <p id="reader-p3" data-i18n="excerptThree">
+              如果我们卖出的不只是时间，那么要夺回的也不只是时间。Worker Investor 要做的，是把工资、技能、经验、写作、判断力和金融资产，逐步转化成未来选择权。
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="subscribe-section" id="subscribe" aria-labelledby="subscribe-title">
+        <div class="subscribe-copy reveal">
+          <p class="eyebrow" data-i18n="subscribeEyebrow">Waitlist</p>
+          <h2 id="subscribe-title" data-i18n="subscribeTitle">这本书还在写。先留下一个安静的位置。</h2>
+          <p data-i18n="subscribeCopy">等第一批章节、公开片段和写作进度准备好，我会先发给等候名单里的读者。</p>
+        </div>
+        <form class="subscribe-form reveal" id="subscribe-form" novalidate>
+          <label for="email">Email</label>
+          <div class="input-row">
+            <input id="email" name="email" type="email" autocomplete="email" placeholder="you@example.com" required />
+            <button type="submit" data-i18n="subscribeButton">加入</button>
+          </div>
+          <p class="form-help" id="form-help" aria-live="polite" data-i18n="formHelp">等候名单正式开放前，这里不会保存邮箱。</p>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <p>The Worker Investor / 工资之外</p>
+        <p data-i18n="footerCopy">A book in progress by 刘乔迈.</p>
+      </div>
+      <nav class="footer-links" aria-label="Footer links">
+        <a href="https://humancapitaletf.com/" data-i18n="footerHce">Human Capital ETF</a>
+        <a href="/sitemap.xml" data-i18n="footerSitemap">Sitemap</a>
+      </nav>
+    </footer>
+
+    <script src="script.js?v=20260705-conclusion"></script>
+  </body>
+</html>

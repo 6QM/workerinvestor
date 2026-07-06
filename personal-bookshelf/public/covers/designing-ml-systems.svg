@@ -1,0 +1,14 @@
+<svg width="420" height="620" viewBox="0 0 420 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="620" fill="#223a5e"/>
+  <rect x="42" y="44" width="336" height="532" fill="#f6f2df" stroke="#111" stroke-width="10"/>
+  <path d="M106 372H314M106 250H314M210 144V490M106 250L210 144L314 250L210 372L106 250Z" stroke="#111" stroke-width="10" stroke-linejoin="round"/>
+  <circle cx="106" cy="250" r="20" fill="#ef6045" stroke="#111" stroke-width="8"/>
+  <circle cx="314" cy="250" r="20" fill="#ef6045" stroke="#111" stroke-width="8"/>
+  <circle cx="210" cy="144" r="20" fill="#2d87a3" stroke="#111" stroke-width="8"/>
+  <circle cx="210" cy="372" r="20" fill="#f0c84b" stroke="#111" stroke-width="8"/>
+  <text x="62" y="92" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="31" font-weight="900">DESIGNING</text>
+  <text x="62" y="130" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="31" font-weight="900">MACHINE</text>
+  <text x="62" y="168" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="31" font-weight="900">LEARNING</text>
+  <text x="62" y="206" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="31" font-weight="900">SYSTEMS</text>
+  <text x="64" y="532" fill="#334" font-family="Arial, sans-serif" font-size="26" font-weight="700">Chip Huyen</text>
+</svg>

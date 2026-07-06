@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1200" viewBox="0 0 1440 1200" role="img" aria-labelledby="title desc">
+  <title id="title">The Worker Investor webpage reference</title>
+  <desc id="desc">A visual reference image for the The Worker Investor landing page direction.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#101114" stroke-opacity=".055" stroke-width="1.4"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#101114" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="1440" height="1200" fill="#f6f4ed"/>
+  <rect width="1440" height="1200" fill="url(#grid)"/>
+  <rect x="96" y="70" width="1248" height="72" rx="36" fill="#fffdf7" stroke="#101114" stroke-opacity=".12"/>
+  <circle cx="146" cy="106" r="24" fill="#101114"/>
+  <text x="146" y="115" text-anchor="middle" fill="#fffdf7" font-family="Georgia, serif" font-size="20" font-weight="700">WI</text>
+  <text x="186" y="115" fill="#101114" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="850">The Worker Investor</text>
+  <text x="774" y="114" fill="#343842" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="750">Book</text>
+  <text x="852" y="114" fill="#343842" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="750">Resources</text>
+  <text x="976" y="114" fill="#343842" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="750">Library</text>
+  <text x="1080" y="114" fill="#343842" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="750">Appendix</text>
+  <rect x="1216" y="86" width="88" height="40" rx="20" fill="#101114"/>
+  <text x="1260" y="112" text-anchor="middle" fill="#fffdf7" font-family="Inter, sans-serif" font-size="15" font-weight="850">Join</text>
+  <g transform="translate(104 222)">
+    <text fill="#4b3fb4" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="850" letter-spacing="3">MODERN PAPERBACK + PRACTICAL TOOLKIT</text>
+    <text y="116" fill="#101114" font-family="Georgia, 'Times New Roman', 'Songti SC', serif" font-size="82" font-weight="700">
+      <tspan x="0" dy="0">工资之外，</tspan>
+      <tspan x="0" dy="92">不是工作之外。</tspan>
+    </text>
+    <text y="330" fill="#343842" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="650">
+      <tspan x="0" dy="0">A book about turning wages, skills, AI, writing,</tspan>
+      <tspan x="0" dy="44">and investing into long-term assets and optionality.</tspan>
+    </text>
+    <rect x="0" y="418" width="214" height="54" rx="27" fill="#101114"/>
+    <text x="107" y="453" text-anchor="middle" fill="#fffdf7" font-family="Inter, sans-serif" font-size="17" font-weight="850">Open the book</text>
+    <rect x="230" y="418" width="214" height="54" rx="27" fill="#fffdf7" stroke="#101114" stroke-opacity=".18"/>
+    <text x="337" y="453" text-anchor="middle" fill="#101114" font-family="Inter, sans-serif" font-size="17" font-weight="850">Explore resources</text>
+  </g>
+  <g transform="translate(884 212)" filter="url(#shadow)">
+    <path d="M104 44L386 20L414 422L130 450Z" fill="#fffdf7" stroke="#101114" stroke-opacity=".16"/>
+    <path d="M104 44L386 20L414 422L130 450Z" fill="url(#grid)" opacity=".7"/>
+    <path d="M0 86L126 54L134 450L4 410Z" fill="#0b101c"/>
+    <path d="M-78 118L100 70L104 430L-80 390Z" fill="#172033"/>
+    <rect x="-70" y="126" width="164" height="10" fill="#4b3fb4"/>
+    <text x="-48" y="198" fill="#fffdf7" font-family="Georgia, serif" font-size="34" font-weight="700">
+      <tspan x="-48" dy="0">The</tspan>
+      <tspan x="-48" dy="39">Worker</tspan>
+      <tspan x="-48" dy="39">Investor</tspan>
+    </text>
+    <text x="-48" y="340" fill="#fffdf7" font-family="'PingFang SC', sans-serif" font-size="22" font-weight="850">工资之外</text>
+  </g>
+  <g transform="translate(104 820)">
+    <rect x="0" y="0" width="390" height="232" rx="10" fill="#fffdf7" stroke="#101114" stroke-opacity=".14"/>
+    <rect x="18" y="18" width="354" height="6" fill="#4b3fb4"/>
+    <text x="22" y="70" fill="#4b3fb4" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="850">BOOK OBJECT</text>
+    <text x="22" y="128" fill="#101114" font-family="Inter, sans-serif" font-size="30" font-weight="850">Make the book feel real.</text>
+    <text x="22" y="174" fill="#343842" font-family="Inter, sans-serif" font-size="20">Cover, spine, contents, version notes.</text>
+  </g>
+  <g transform="translate(524 820)">
+    <rect x="0" y="0" width="390" height="232" rx="10" fill="#101114"/>
+    <rect x="18" y="18" width="354" height="6" fill="#0d6b57"/>
+    <text x="22" y="70" fill="#8af1d3" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="850">PRACTICE SYSTEM</text>
+    <text x="22" y="128" fill="#fffdf7" font-family="Inter, sans-serif" font-size="30" font-weight="850">Reading becomes action.</text>
+    <text x="22" y="174" fill="#d8d4ca" font-family="Inter, sans-serif" font-size="20">Sheets, self-assessment, 90-day plan.</text>
+  </g>
+  <g transform="translate(944 820)">
+    <rect x="0" y="0" width="390" height="232" rx="10" fill="#fffdf7" stroke="#101114" stroke-opacity=".14"/>
+    <rect x="18" y="18" width="354" height="6" fill="#c6a64f"/>
+    <text x="22" y="70" fill="#4b3fb4" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="850">LIVING ARCHIVE</text>
+    <text x="22" y="128" fill="#101114" font-family="Inter, sans-serif" font-size="30" font-weight="850">The site keeps growing.</text>
+    <text x="22" y="174" fill="#343842" font-family="Inter, sans-serif" font-size="20">Posts, cases, appendix, references.</text>
+  </g>
+</svg>

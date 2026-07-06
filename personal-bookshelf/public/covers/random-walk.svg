@@ -1,0 +1,11 @@
+<svg width="420" height="620" viewBox="0 0 420 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="620" fill="#ffd84e"/>
+  <rect x="36" y="36" width="348" height="548" rx="8" fill="#ffe87d" stroke="#111" stroke-width="10"/>
+  <path d="M72 438C110 376 132 378 164 314C196 250 226 302 254 228C282 154 316 180 350 104" stroke="#111" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="164" cy="314" r="18" fill="#e6533d" stroke="#111" stroke-width="8"/>
+  <circle cx="254" cy="228" r="18" fill="#2d87a3" stroke="#111" stroke-width="8"/>
+  <text x="62" y="112" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="34" font-weight="900">A RANDOM</text>
+  <text x="62" y="154" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="34" font-weight="900">WALK DOWN</text>
+  <text x="62" y="196" fill="#111" font-family="Arial Black, Arial, sans-serif" font-size="34" font-weight="900">WALL STREET</text>
+  <text x="64" y="530" fill="#4c3d11" font-family="Arial, sans-serif" font-size="25" font-weight="700">Burton G. Malkiel</text>
+</svg>
