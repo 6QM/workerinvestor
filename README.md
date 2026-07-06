@@ -1,19 +1,16 @@
 # The Worker Investor / 工资之外
 
-普通工作者如何把工资、技能、内容和资产，转化为未来选择权。
+<p align="center">
+  <img src="assets/the-worker-investor-cover.jpg" alt="The Worker Investor book cover" width="360">
+</p>
+
+<p align="center">
+  <strong>普通工作者如何把工资、技能、内容和资产，转化为未来选择权。</strong>
+</p>
 
 > Worker 负责获得现金流，Investor 负责把现金流转化为所有权、选择权和未来时间。
 
-## Status
-
-- Current version: `v0.2 local structure sync`
-- Writing source of truth: Notion
-- GitHub role: public archive, manuscript versioning, and website source
-- Language: Chinese, with selected English concepts such as Worker, Investor, Ownership, Distribution, Core, Growth, and Meta
-
-This repository is an open book project in progress. Some chapters are readable drafts, some are structured stubs, and some still need to be migrated from Notion.
-
-## What This Project Is
+## Book Introduction
 
 《The Worker Investor / 工资之外》是一本写给普通工作者的长期选择权手册。
 
@@ -25,6 +22,33 @@ This repository is an open book project in progress. Some chapters are readable 
 
 前者讲“如何配置自己”，后者讲“普通工作者如何把现实生活转化为资产和选择权”。
 
+The writing position is deliberately unfinished:
+
+> I am still inside the work system, but I no longer want to understand my future only as a worker.
+
+## Chapters
+
+| Chapter | Chapter title | File | Status |
+| --- | --- | --- | --- |
+| Preface | 不是逃离工作，而是不停留在卖时间这一层 | [`00-preface.md`](manuscript/00-preface.md) | Draft |
+| Ch01 | 我为什么开始思考 Worker Investor | [`01-why-i-started-thinking-worker-investor.md`](manuscript/01-why-i-started-thinking-worker-investor.md) | Local draft; Notion rewrite pending |
+| Ch02 | 工资的安全感，也有它的边界 | [`02-salary-security-boundary.md`](manuscript/02-salary-security-boundary.md) | Stub |
+| Ch03 | 现代 worker 的困境：我们卖的不只是时间 | [`03-modern-worker-sells-more-than-time.md`](manuscript/03-modern-worker-sells-more-than-time.md) | Stub; Notion has material |
+| Ch04 | 从工厂钟声到日历、KPI 和 AI | [`04-factory-bell-calendar-kpi-ai.md`](manuscript/04-factory-bell-calendar-kpi-ai.md) | Stub; Notion has material |
+| Ch05 | 现金流与本金：把工资看成燃料，而不是身份 | [`05-salary-as-fuel-not-identity.md`](manuscript/05-salary-as-fuel-not-identity.md) | Stub |
+| Ch06 | 真假市场：黄金电子盘、赌场与概率素养 | [`06-fake-markets-casino-probability.md`](manuscript/06-fake-markets-casino-probability.md) | Stub |
+| Ch07 | 所有权与周期：股票如何诞生，又如何疯狂 | [`07-ownership-and-cycles.md`](manuscript/07-ownership-and-cycles.md) | Stub |
+| Ch08 | 金融底仓：ETF 与 Worker Investor 的长期胜率 | [`08-etf-financial-core.md`](manuscript/08-etf-financial-core.md) | Stub; Notion has thick research |
+| Ch09 | 投资不只是钱：Worker 的资产栈 | [`09-worker-asset-stack.md`](manuscript/09-worker-asset-stack.md) | Stub |
+| Ch10 | Core：worker 的本金首先是健康和职业主线 | [`10-core-health-and-career.md`](manuscript/10-core-health-and-career.md) | Stub |
+| Ch11 | Growth：技能、AI 与未来现金流 | [`11-growth-ai-and-future-cashflow.md`](manuscript/11-growth-ai-and-future-cashflow.md) | Stub |
+| Ch12 | Distribution：内容资产、表达和可见性 | [`12-distribution-content-assets.md`](manuscript/12-distribution-content-assets.md) | Stub |
+| Ch13 | Meta：复盘、思考和再平衡 | [`13-meta-review-and-rebalancing.md`](manuscript/13-meta-review-and-rebalancing.md) | Stub |
+| Ch14 | 案例研究：沃伦·巴菲特 | [`14-buffett-case-study.md`](manuscript/14-buffett-case-study.md) | Stub |
+| Conclusion | 成为 Worker Investor | [`99-conclusion-becoming-worker-investor.md`](manuscript/99-conclusion-becoming-worker-investor.md) | Stub |
+
+For the full current structure, see [outline.md](outline.md). For writing and migration status, see [progress.md](progress.md).
+
 ## What This Project Is Not
 
 - Not investment advice.
@@ -32,10 +56,6 @@ This repository is an open book project in progress. Some chapters are readable 
 - Not a quit-your-job manifesto.
 - Not a startup hustle playbook.
 - Not a book written from the position of “I have already succeeded, so let me teach you.”
-
-The writing position is:
-
-> I am still inside the work system, but I no longer want to understand my future only as a worker.
 
 ## Core Thesis
 
@@ -47,23 +67,20 @@ The book keeps returning to a small set of core claims:
 - 真正的 Worker Investor，不是不上班的人，而是不再把全部未来押在一份工作上的人。
 - 我们无法延长自己的生命，但可以改变未来时间被谁支配。
 
-## Book Map
+## Project Status
 
-| Part | Theme | Chapters | Local status |
-| --- | --- | --- | --- |
-| Preface | Why this book exists | Preface | Draft |
-| Part I | 从 Worker 的现实处境出发 | Ch01-Ch04 | Ch01 local draft; Ch02-Ch04 stubs |
-| Part II | Worker Investor Mindset | Ch05-Ch08 | Stubs; Ch08 has thick Notion research |
-| Part III | Human Capital ETF | Ch09-Ch13 | Stubs |
-| Part IV | Case Studies | Ch14 | Stub |
-| Conclusion | Becoming Worker Investor | Conclusion | Stub |
+- Current version: `v0.2 local structure sync`
+- Writing source of truth: Notion
+- GitHub role: public archive, manuscript versioning, and website source
+- Language: Chinese, with selected English concepts such as Worker, Investor, Ownership, Distribution, Core, Growth, and Meta
 
-For the full current structure, see [outline.md](outline.md). For writing and migration status, see [progress.md](progress.md).
+This repository is an open book project in progress. Some chapters are readable drafts, some are structured stubs, and some still need to be migrated from Notion.
 
 ## Repository Guide
 
 | Path | Purpose |
 | --- | --- |
+| `assets/` | Public repository assets, including the book cover |
 | `manuscript/` | Book manuscript drafts and chapter stubs |
 | `manuscript/archive/` | Older local drafts preserved for traceability |
 | `materials/raw/` | Raw source materials |
@@ -84,14 +101,6 @@ For the full current structure, see [outline.md](outline.md). For writing and mi
 3. Shape Ch03 and Ch04 into the backbone of Part I.
 4. Confirm Ch06-Ch14 statuses from Notion.
 5. Decide what belongs in the public GitHub version versus private Notion notes.
-
-## Reading Notes
-
-The repository currently contains a mixture of draft maturity levels:
-
-- `manuscript/00-preface.md` and `manuscript/01-why-i-started-thinking-worker-investor.md` are readable local drafts.
-- `manuscript/02-...` through `manuscript/14-...` are structured stubs unless otherwise noted.
-- `progress.md` is the best place to check whether a chapter is done, draft, stub, or waiting for Notion migration.
 
 ## Privacy And Publishing Notes
 
