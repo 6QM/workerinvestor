@@ -103,6 +103,9 @@ const translations = {
       "My name is Qiaomai Liu. I am still inside the work system as a commercial-vehicle thermal management engineer. Thermal management, engineering projects, and wage cash flow are where I first understand Core; AI, writing, and public expression are where I observe Growth and Distribution.",
     authorCopyTwo:
       "I am writing Beyond Wages not to prove a success story, but to record how an ordinary worker can still preserve part of today's labor for the future under projects, performance pressure, family responsibility, and limited time.",
+    authorWebsite: "Personal site ↗",
+    authorEmail: "Email me",
+    authorLinksAria: "Author contact links",
     authorFactOneLabel: "Identity",
     authorFactOneValue: "Commercial-vehicle thermal management engineer",
     authorFactTwoLabel: "Field",
@@ -263,8 +266,11 @@ const translations = {
     subscribeButton: "Join",
     formHelp: "Before the waitlist officially opens, this form will not store email addresses.",
     footerCopy: "A book in progress by Qiaomai Liu.",
+    footerWebsite: "Personal site",
+    footerEmail: "Email",
     footerHce: "Human Capital ETF",
     footerSitemap: "Sitemap",
+    footerLinksAria: "Footer links",
     documentTitle: "The Worker Investor / Beyond Wages",
     documentDescription:
       "The Worker Investor / Beyond Wages is a book in progress about turning wages, skills, time, and judgment into future optionality.",
