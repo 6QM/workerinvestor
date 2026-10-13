@@ -1,9 +1,41 @@
-# All Rights Reserved
+# 版权与使用说明 / All Rights Reserved
 
-Copyright (c) 2026 Liu Qiaomai / Mike.
+Copyright © 2026 刘乔迈（Liu Qiaomai）.
 
-All rights reserved.
+**All rights reserved. 保留所有未明确授予的权利。**
 
-This repository is public for reading, versioning, and discussion. Unless a separate license is added later, the manuscript, essays, notes, website copy, and related creative materials may not be redistributed, commercially reused, republished, or adapted without permission.
+## 适用范围
 
-Code samples and website/app implementation files may be relicensed separately in the future.
+除另有明确声明外，本说明适用于本仓库中由作者享有版权的书稿、文章、笔记、原创图表、网站文案及相关创作内容。本说明不主张对第三方作品、读者独立创作的内容或依法不受版权保护的材料享有版权。
+
+## 个人阅读许可
+
+作者允许读者在保留作者署名、版权信息和版本信息的前提下，为个人非商业阅读、学习与评阅，免费查看、下载和保存作者已公开的材料，并制作仅供个人使用的阅读批注。
+
+欢迎分享指向本仓库及其官方发布页面的链接，并通过 Issues 提交勘误、问题和建议。这些许可不意味着版权转让，也不使作品成为公有领域内容。
+
+## 未授予的权利
+
+除上述明确许可、另行书面授权、适用法律允许的使用及 GitHub 平台条款所授予的权利外，不得复制传播、再出版或发布本作品的翻译及其他改编版本。
+
+尤其不得未经作者事先书面授权，将本书或其受版权保护的实质内容出售、付费转载、打包销售、用于商业再出版，或作为商业课程、付费资料包等产品的内容进行分发。
+
+个人阅读许可不包含在其他网站、网盘、资料库或平台整体转载、镜像发布书稿的许可，即使该转载不收费。推荐本书时，请优先分享官方仓库链接。
+
+## 法律例外与平台条款
+
+本说明不限制适用法律允许的合理使用、法定许可或其他版权例外，也不撤销或缩减作者依照 [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) 已授予 GitHub 及其用户的权利，包括依平台条款查看与 fork 公开仓库的权利。
+
+平台条款之外的商业传播、再出版或其他利用，不会仅因本仓库公开而自动获得授权。
+
+## 第三方材料、代码与内容贡献
+
+第三方引用、图片、数据、软件依赖及另有许可的文件，依其各自权利声明和适用法律处理；本说明不替代其原有许可，也不授予作者无权授予的权利。
+
+代码示例与网站或应用实现文件，如另有明确许可证，适用该许可证；未明确许可的部分不因公开而自动成为开源代码。
+
+对于拟纳入正式书稿的长篇改写、翻译、插图或其他实质性内容贡献，应在采用前另行确认署名及使用授权。不得将公开提交反馈理解为作者自动取得贡献者全部版权。
+
+## 授权联系
+
+出版、翻译、转载或其他授权请求，请通过本仓库与作者建立联系。请勿在公开 Issue 中提交合同、个人证件或其他敏感资料。
