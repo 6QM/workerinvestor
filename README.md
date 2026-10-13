@@ -1,115 +1,82 @@
-# The Worker Investor / 工资之外
+# The Worker Investor · 工资之外
 
-<p align="center">
-  <img src="assets/the-worker-investor-cover.jpg" alt="The Worker Investor book cover" width="360">
-</p>
+**让今天的劳动，成为明天仍能使用的资产与选择权。**
 
-<p align="center">
-  <strong>普通工作者如何把工资、技能、内容和资产，转化为未来选择权。</strong>
-</p>
+[阅读中文版 PDF](./The-Worker-Investor.zh-CN.v2.7.pdf) · [下载中文版 PDF](./The-Worker-Investor.zh-CN.v2.7.pdf?raw=true)
 
-> Worker 负责获得现金流，Investor 负责把现金流转化为所有权、选择权和未来时间。
+中文阅读版 **v2.7** · PDF 更新于 **2026 年 10 月 12 日** · **422 页**
 
-## Book Introduction
+这是一本持续完善的书。本仓库提供完整 PDF，欢迎阅读、讨论与批评指正。
 
-《The Worker Investor / 工资之外》是一本写给普通工作者的长期选择权手册。
+## 这本书讲什么
 
-它讨论一个人如何从 worker 开始，通过工资、储蓄、投资、技能、健康、内容资产、金融资产和系统建设，把现金流逐步转化为资产、所有权和未来自由。
+《The Worker Investor》写给依靠工作获得收入，也希望逐步建立更多选择的人。
 
-这本书是《Human Capital ETF》的现实落地版：
+工资支持当下的生活，也构成投资的本金。时间、技能和经验支持今天的工作，也可能转化为未来能够继续发挥作用的能力、作品、系统与所有权。本书把这些事情放在一起思考：几年工作之后，除了领到的工资，我们还能留下什么？
 
-> Human Capital ETF 是操作系统，The Worker Investor 是应用程序。
+全书沿四部分展开：
 
-前者讲“如何配置自己”，后者讲“普通工作者如何把现实生活转化为资产和选择权”。
+1. **从 Worker 的现实处境出发**：理解工资的安全感与边界，以及工作对时间、注意力、情绪和生活的影响。
+2. **Worker Investor Mindset**：重新认识现金流、本金、风险、所有权与市场周期，讨论 ETF 和长期金融投资的原则与局限。
+3. **Human Capital ETF**：把投资者的视角用于自身，配置有限的时间、精力和金钱，让健康、职业、学习与作品之间形成积累。
+4. **人物与转化路径**：通过马斯克、卡内基、富兰克林、纳瓦尔和巴菲特的经历，观察劳动、能力、组织和所有权如何相互连接，也讨论时代条件与个人路径的边界。
 
-The writing position is deliberately unfinished:
+结语回到 **Future Optionality——未来选择权**：今天的积累，能否让我们在未来有更多条件，选择值得投入的工作与生活？
 
-> I am still inside the work system, but I no longer want to understand my future only as a worker.
+**Human Capital ETF** 是书内的人力资本配置框架，借用投资组合的视角，把“投资自己”拆成四个相互关联的仓位：
 
-## Chapters
-
-| Chapter | Chapter title | File | Status |
-| --- | --- | --- | --- |
-| Preface | 不是逃离工作，而是不停留在卖时间这一层 | [`00-preface.md`](manuscript/00-preface.md) | Draft |
-| Ch01 | 我为什么开始思考 Worker Investor | [`01-why-i-started-thinking-worker-investor.md`](manuscript/01-why-i-started-thinking-worker-investor.md) | Local draft; Notion rewrite pending |
-| Ch02 | 工资的安全感，也有它的边界 | [`02-salary-security-boundary.md`](manuscript/02-salary-security-boundary.md) | Stub |
-| Ch03 | 现代 worker 的困境：我们卖的不只是时间 | [`03-modern-worker-sells-more-than-time.md`](manuscript/03-modern-worker-sells-more-than-time.md) | Stub; Notion has material |
-| Ch04 | 从工厂钟声到日历、KPI 和 AI | [`04-factory-bell-calendar-kpi-ai.md`](manuscript/04-factory-bell-calendar-kpi-ai.md) | Stub; Notion has material |
-| Ch05 | 现金流与本金：把工资看成燃料，而不是身份 | [`05-salary-as-fuel-not-identity.md`](manuscript/05-salary-as-fuel-not-identity.md) | Stub |
-| Ch06 | 真假市场：黄金电子盘、赌场与概率素养 | [`06-fake-markets-casino-probability.md`](manuscript/06-fake-markets-casino-probability.md) | Stub |
-| Ch07 | 所有权与周期：股票如何诞生，又如何疯狂 | [`07-ownership-and-cycles.md`](manuscript/07-ownership-and-cycles.md) | Stub |
-| Ch08 | 金融底仓：ETF 与 Worker Investor 的长期胜率 | [`08-etf-financial-core.md`](manuscript/08-etf-financial-core.md) | Stub; Notion has thick research |
-| Ch09 | 投资不只是钱：Worker 的资产栈 | [`09-worker-asset-stack.md`](manuscript/09-worker-asset-stack.md) | Stub |
-| Ch10 | Core：worker 的本金首先是健康和职业主线 | [`10-core-health-and-career.md`](manuscript/10-core-health-and-career.md) | Stub |
-| Ch11 | Growth：技能、AI 与未来现金流 | [`11-growth-ai-and-future-cashflow.md`](manuscript/11-growth-ai-and-future-cashflow.md) | Stub |
-| Ch12 | Distribution：内容资产、表达和可见性 | [`12-distribution-content-assets.md`](manuscript/12-distribution-content-assets.md) | Stub |
-| Ch13 | Meta：复盘、思考和再平衡 | [`13-meta-review-and-rebalancing.md`](manuscript/13-meta-review-and-rebalancing.md) | Stub |
-| Ch14 | 案例研究：沃伦·巴菲特 | [`14-buffett-case-study.md`](manuscript/14-buffett-case-study.md) | Stub |
-| Conclusion | 成为 Worker Investor | [`99-conclusion-becoming-worker-investor.md`](manuscript/99-conclusion-becoming-worker-investor.md) | Stub |
-
-For the full current structure, see [outline.md](outline.md). For writing and migration status, see [progress.md](progress.md).
-
-## What This Project Is Not
-
-- Not investment advice.
-- Not a get-rich-quick guide.
-- Not a quit-your-job manifesto.
-- Not a startup hustle playbook.
-- Not a book written from the position of “I have already succeeded, so let me teach you.”
-
-## Core Thesis
-
-The book keeps returning to a small set of core claims:
-
-- 工资不是终点，工资只是普通人最早获得的现金流入口。
-- Worker 的核心动作是 exchange，Investor 的核心动作是 ownership。
-- 一个 worker 最大的风险，不是工资低，而是所有收入都只能依赖继续卖时间。
-- 真正的 Worker Investor，不是不上班的人，而是不再把全部未来押在一份工作上的人。
-- 我们无法延长自己的生命，但可以改变未来时间被谁支配。
-
-## Project Status
-
-- Current version: `v0.2 local structure sync`
-- Writing source of truth: Notion
-- GitHub role: public archive, manuscript versioning, and website source
-- Language: Chinese, with selected English concepts such as Worker, Investor, Ownership, Distribution, Core, Growth, and Meta
-
-This repository is an open book project in progress. Some chapters are readable drafts, some are structured stubs, and some still need to be migrated from Notion.
-
-## Repository Guide
-
-| Path | Purpose |
+| 仓位 | 关注什么 |
 | --- | --- |
-| `assets/` | Public repository assets, including the book cover |
-| `manuscript/` | Book manuscript drafts and chapter stubs |
-| `manuscript/archive/` | Older local drafts preserved for traceability |
-| `materials/raw/` | Raw source materials |
-| `materials/processed/` | Processed notes, models, and research digests |
-| `scripts/` | Distribution drafts: posts, videos, and episode plans |
-| `site/` | Website source/output for the project |
-| `site-official/` | Current official static site version |
-| `personal-bookshelf/` | Companion personal bookshelf web app |
-| `book-bible.md` | Positioning, audience, core language, and writing boundaries |
-| `style-guide.md` | Voice, privacy, terminology, and anti-generic-writing rules |
-| `outline.md` | Current book structure |
-| `progress.md` | Writing progress and migration status |
+| **Core · 核心** | 健康、现金流与职业主线，为持续行动守住基础 |
+| **Growth · 成长** | 技能、AI、真实项目与第二曲线，为未来建立可能性 |
+| **Distribution · 分发** | 作品、渠道与可信度，让经验和能力进入他人能够使用的载体 |
+| **Meta · 判断与管理** | 判断、复盘与再平衡，检视整个组合的方向与投入 |
 
-## Current Writing Priority
+## 为什么写这本书
 
-1. Migrate the complete Ch01 Notion rewrite into `manuscript/`.
-2. Compress Ch08 ETF research into a readable chapter draft.
-3. Shape Ch03 and Ch04 into the backbone of Part I.
-4. Confirm Ch06-Ch14 statuses from Notion.
-5. Decide what belongs in the public GitHub version versus private Notion notes.
+我的起点是金融投资中的亏损。它让我看见自己判断的局限，也促使我重新理解本金：对一个普通工作者来说，能够投入市场的资本，首先来自现实中的劳动与积累。
 
-## Privacy And Publishing Notes
+学习金融投资，让我开始重视原则、纪律与长期配置。但另一个问题仍然摆在面前：我该怎样投资那个产生本金的人，也就是我自己？在阅读相关书籍和回看自己的经历时，我一直希望把金融投资与工作、学习、创造之间的联系梳理得更清楚。
 
-- Company names, project names, salaries, private identities, and internal details should be anonymized before publication.
-- Public GitHub files should not expose private Notion URLs, workspace IDs, or temporary asset URLs.
-- Investment-related content is educational and reflective, not individualized financial advice.
+我仍然是一个 worker，也已经开始用 investor 的方式理解自己的资源。这本书记录的，就是这个过程：在继续工作的同时，怎样把一部分劳动转化为可以留存、复用和增长的东西，让未来的选择逐渐增加。
 
-## License
+## 这本书希望带来什么
 
-Copyright (c) 2026 Liu Qiaomai / Mike.
+如果你也在两个发薪日之间生活，希望它能帮助你把几个问题想得更具体：
 
-All rights reserved unless a more explicit license is added later. This book project is public for reading, versioning, and discussion, but the manuscript text is not automatically licensed for redistribution, commercial use, or derivative publication.
+- 一份工作除了提供收入，还在积累哪些可迁移的能力与经验？
+- 工资怎样支持生活，也为长期积累留下本金？
+- 学习怎样进入真实问题，形成方法、作品与新的机会？
+- 金融资产与人力资本怎样相互支持，有限资源应该怎样分配？
+- 当环境或人生阶段变化时，怎样复盘并调整方向？
+
+你可以从一个具体问题开始，检查自己的工作、学习计划、作品积累或资源配置。书中的框架也需要放回真实生活中检验，随着经验和反馈继续修正。
+
+## 持续更新
+
+我会持续更新这本书，重点包括：
+
+- 完善内容、案例与论证，让表达更清楚。
+- 改进数据图、概念图和制图，增加更多 artwork，让复杂关系更容易理解。
+- 核查事实、数据与引用，补齐和纠正来源。
+
+本仓库只保留这份 README 和一份当前中文 PDF。后续更新会替换阅读文件，并同步版本与日期；历次改动可在仓库历史中查看。
+
+## 欢迎建议与批评
+
+欢迎告诉我哪些地方有帮助，哪些地方说得不清楚，以及哪些观点、事实、图表或引用需要纠正。不同意见和具体批评同样欢迎。
+
+- **邮件**：[69mike.com@gmail.com](mailto:69mike.com@gmail.com)
+- **X**：[@humancapitaletf](https://x.com/humancapitaletf)
+
+如果反馈涉及具体内容，请尽量注明 PDF 版本、页码和相关段落，便于我及时查找、核对与回应。
+
+## 后续出版计划
+
+我计划将本书翻译成英文，在 **Amazon Kindle** 上出版，之后也计划通过传统纸媒出版。相关进展会在这里继续更新，敬请期待。
+
+感谢你的阅读，也感谢每一份帮助这本书变得更好的建议。
+
+---
+
+© 2026 刘乔迈（Qiaomai Liu）。保留所有权利。当前 PDF 免费提供个人阅读；欢迎分享本仓库链接。转载、翻译及商业出版请先联系作者。
