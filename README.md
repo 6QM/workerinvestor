@@ -1,50 +1,50 @@
 # The Worker Investor · 工资之外
 
 <p align="center">
-  <a href="./The-Worker-Investor.zh-CN.v2.7.pdf">
+  <a href="./The-Worker-Investor.zh-CN.2026-10-14.pdf">
     <img src="./assets/cover.png" alt="The Worker Investor 书籍封面：From Labor to Ownership, Building Future Optionality，作者 Qiaomai Liu" width="360">
   </a>
 </p>
 
 **让今天的劳动，成为明天仍能使用的资产与选择权。**
 
-[阅读中文版 PDF](./The-Worker-Investor.zh-CN.v2.7.pdf) · [下载中文版 PDF](./The-Worker-Investor.zh-CN.v2.7.pdf?raw=true)
+[阅读中文版 PDF](./The-Worker-Investor.zh-CN.2026-10-14.pdf) · [下载中文版 PDF](./The-Worker-Investor.zh-CN.2026-10-14.pdf?raw=true)
 
-中文阅读版 **v2.7** · PDF 更新于 **2026 年 10 月 12 日** · **422 页**
+中文阅读版 · PDF 更新于 **2026 年 10 月 14 日** · **421 页**
 
 这是一本持续完善的书。本仓库提供完整 PDF，欢迎阅读、讨论与批评指正。
 
 ## Brief Contents · 简要目录
 
-页码对应当前 v2.7 PDF 的印刷页码。
+页码对应当前 2026-10-14 PDF 的页码。
 
 | 内容 | 页码 |
 | --- | ---: |
-| 前言 | xv |
-| **Part I｜从 Worker 的现实处境出发** | **1** |
-| 第 1 章　起点——我为什么开始思考 Worker Investor | 3 |
-| 第 2 章　工资的安全感，也有它的边界 | 32 |
-| 第 3 章　现代 worker 的困境：我们卖的不只是时间 | 47 |
-| 第 4 章　从工厂钟声到日历、KPI 和 AI | 77 |
-| **Part II｜Worker Investor Mindset** | **93** |
-| 第 5 章　现金流与本金：把工资看成燃料，而不是身份 | 99 |
-| 第 6 章　真假市场：黄金电子盘、赌场与概率素养 | 121 |
-| 第 7 章　所有权与周期：股票如何诞生，又如何疯狂 | 149 |
-| 第 8 章　金融底仓：ETF 与 Worker Investor 的长期胜率 | 177 |
-| **Part III｜Human Capital ETF** | **206** |
-| 第 9 章　Human Capital ETF：从“提升自己”到“配置自己” | 207 |
-| 第 10 章　Core：先守住本金——健康、现金流与职业主线 | 231 |
-| 第 11 章　Growth：为未来建立仓位——技能、AI 与第二曲线 | 248 |
-| 第 12 章　Distribution：让价值离开身体——作品、渠道与可信度 | 267 |
-| 第 13 章　Meta：成为自己的基金经理——判断、复盘与再平衡 | 285 |
-| **Part IV｜Case Studies：Transformation Paths** | **304** |
-| 第 14 章　Elon Musk——从 Worker 到 Working Founder | 306 |
-| 第 15 章　Andrew Carnegie——把电报技能复利成工业系统 | 322 |
-| 第 16 章　Benjamin Franklin——把手艺复利成公共基础设施 | 337 |
-| 第 17 章　Naval Ravikant——从出租时间到拥有杠杆 | 353 |
-| 第 18 章　Warren Buffett——把判断力复利成资本系统 | 373 |
-| 结语：成为 Worker Investor | 389 |
-| 附录： | 399 |
+| 前言 | 17 |
+| **Part I｜从 Worker 的现实处境出发** | **24** |
+| 第 1 章 起点——我为什么开始思考 Worker Investor | 26 |
+| 第 2 章 工资的安全感，也有它的边界 | 55 |
+| 第 3 章 现代 worker 的困境：我们卖的不只是时间 | 70 |
+| 第 4 章 从工厂钟声到日历、KPI 和 AI | 100 |
+| **Part II｜Worker Investor Mindset** | **116** |
+| 第 5 章 现金流与本金：把工资看成燃料，而不是身份 | 122 |
+| 第 6 章 真假市场：黄金电子盘、赌场与概率素养 | 144 |
+| 第 7 章 所有权与周期：股票如何诞生，又如何疯狂 | 172 |
+| 第 8 章 金融底仓：ETF 与 Worker Investor 的长期胜率 | 200 |
+| **Part III｜Human Capital ETF** | **229** |
+| 第 9 章 Human Capital ETF：从“提升自己”到“配置自己” | 230 |
+| 第 10 章 Core：先守住本金——健康、现金流与职业主线 | 254 |
+| 第 11 章 Growth：为未来建立仓位——技能、AI 与第二曲线 | 271 |
+| 第 12 章 Distribution：让价值离开身体——作品、渠道与可信度 | 290 |
+| 第 13 章 Meta：成为自己的基金经理——判断、复盘与再平衡 | 308 |
+| **Part IV｜Case Studies：Transformation Paths** | **327** |
+| 第 14 章 Elon Musk——从 Worker 到 Working Founder | 329 |
+| 第 15 章 Andrew Carnegie——把电报技能复利成工业系统 | 345 |
+| 第 16 章 Benjamin Franklin——把手艺复利成公共基础设施 | 360 |
+| 第 17 章 Naval Ravikant——从出租时间到拥有杠杆 | 376 |
+| 第 18 章 Warren Buffett——把判断力复利成资本系统 | 396 |
+| 结语：成为 Worker Investor | 412 |
+| 附录： | 420 |
 
 附录在当前阅读版中为预留页。
 
@@ -100,7 +100,7 @@
 - 改进数据图、概念图和制图，增加更多 artwork，让复杂关系更容易理解。
 - 核查事实、数据与引用，补齐和纠正来源。
 
-本仓库提供这份阅读介绍、书籍封面和一份当前中文 PDF。后续更新会替换阅读文件，并同步版本与日期；历次改动可在仓库历史中查看。
+本仓库提供这份阅读介绍、书籍封面与封底，以及一份当前中文 PDF。后续更新会替换阅读文件，并同步版本与日期；历次改动可在仓库历史中查看。
 
 ## 欢迎建议与批评
 
@@ -116,6 +116,14 @@
 我计划将本书翻译成英文，在 **Amazon Kindle** 上出版，之后也计划通过传统纸媒出版。相关进展会在这里继续更新，敬请期待。
 
 感谢你的阅读，也感谢每一份帮助这本书变得更好的建议。
+
+## 封底
+
+<p align="center">
+  <a href="./The-Worker-Investor.zh-CN.2026-10-14.pdf">
+    <img src="./assets/end-cover.png" alt="The Worker Investor 书籍封底" width="360">
+  </a>
+</p>
 
 ---
 
